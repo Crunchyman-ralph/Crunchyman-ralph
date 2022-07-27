@@ -1,5 +1,5 @@
-[![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crunchyman-ralph&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crunchyman-ralph&theme=prussian&show_icons=true&exclude_repo=hotel_bookings_study)](https://github.com/anuraghazra/github-readme-stats)
+[![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crunchyman-ralph&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crunchyman-ralph&theme=cobalt&show_icons=true&exclude_repo=hotel_bookings_study)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
