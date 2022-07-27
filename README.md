@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crunchyman-ralph&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crunchyman-ralph&theme=onedark&show_icons=true&exclude_repo=hotel_bookings_study)](https://github.com/anuraghazra/github-readme-stats)
 
